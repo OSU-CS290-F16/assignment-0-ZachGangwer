@@ -3,7 +3,7 @@
 
 Name: `Zach Gangwer`
 
-ONID ID: `932052573`
+ONID ID: `gangwerz`
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
